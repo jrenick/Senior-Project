@@ -1,0 +1,10 @@
+MANIFEST.in
+README.txt
+setup.py
+REMS/TPH.py
+REMS/__init__.py
+REMS/bme280_Read.py
+REMS.egg-info/PKG-INFO
+REMS.egg-info/SOURCES.txt
+REMS.egg-info/dependency_links.txt
+REMS.egg-info/top_level.txt

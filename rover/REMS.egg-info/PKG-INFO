@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: REMS
+Version: 0.0.1
+Summary: Rover Environmental Measurment System
+Home-page: UNKNOWN
+Author: James Renick
+Author-email: jrenick@calpoly.edu
+License: MIT
+Description: This library provides several simple Environmental Measurement calculations that is provided by the bme280
+         adafruit temperature, humidity, and pressure sensor. There are other functions that provide other
+        calculations based off these measurements as well.
+Keywords: rems
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
